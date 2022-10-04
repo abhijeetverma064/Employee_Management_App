@@ -18,6 +18,6 @@ In this project, I build a full-stack web application that is basic Employee Man
 • View Employee
 
 
-Following is the screenshot of the final version of our application 
+## Following is the screenshot of the final version of our application 
 ![Screenshot (1736)](https://user-images.githubusercontent.com/55553718/193789758-1801e2a1-3f6e-474a-8708-88fbc1517162.png)
 
